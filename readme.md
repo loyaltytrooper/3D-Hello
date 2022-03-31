@@ -15,5 +15,5 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
-### Preview
+## Preview
 ![image](https://user-images.githubusercontent.com/89660252/160985854-9f2d85fd-c528-4d53-be71-639567b5cb35.png)
